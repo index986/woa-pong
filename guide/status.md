@@ -1,35 +1,36 @@
-<img align="right" src="https://github.com/n00b69/woa-polaris/blob/main/polaris.png" width="350" alt="Windows 11 running on polaris">
+<img align="right" src="https://github.com/n00b69/woa-polaris/blob/main/polaris.png" width="350" alt="Windows 11 running on pong">
 
-# Running Windows on the Xiaomi Mix 2s
+# Running Windows on the Nothing Phone (2)
 
 ## Project Status
 Most things work, flashlight does not yet work but it might be functional soon.
 
 #### Features
-- [x] Audio
-- [X] Battery status
-- [x] Bluetooth
-- [x] Brightness 
+- [ ] Audio
+- [ ] Battery status
+- [ ] Bluetooth
+- [ ] Brightness 
 - [ ] Camera
-- [x] LTE ```Problematic```
-- [x] Charging ```VERY slow```
+- [X] CPU ``` 1 Core only ```
+- [ ] LTE
+- [ ] Charging
 - [x] Display
 - [ ] Flashlight
-- [x] GPU  ```No x64 acceleration```
+- [ ] GPU
 - [ ] SMS
-- [x] Touchscreen 
+- [ ] Touchscreen 
 - [x] UFS
-- [x] USB
-- [x] Wi-Fi
+- [x] USB ```UEFI device mode only / Windows dualrole unstable ( for host mode only to tg channel )```
+- [ ] Wi-Fi
 
 #### Sensors
-- [x] Accelerometer
+- [ ] Accelerometer
 - [ ] Fingerprint
-- [x] GPS
-- [x] Gyroscope
-- [x] Light sensor
-- [x] Proximity
-- [X] NFC ```NFC Tags work, other NFC related things may work too```
+- [ ] GPS
+- [ ]Gyroscope
+- [ ]Light sensor
+- [ ] Proximity
+- [ ] NFC 
 
 
 
