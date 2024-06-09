@@ -27,8 +27,8 @@ Most things work, flashlight does not yet work but it might be functional soon.
 - [ ] Accelerometer
 - [ ] Fingerprint
 - [ ] GPS
-- [ ]Gyroscope
-- [ ]Light sensor
+- [ ] Gyroscope
+- [ ] Light sensor
 - [ ] Proximity
 - [ ] NFC 
 
