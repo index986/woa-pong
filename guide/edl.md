@@ -16,7 +16,6 @@
 - Download and extract **Nothing_1.4_MOD.7z**. You may need to disable your antivirus software or it may falsely be detected as being malware.
 - In android do this: adb reboot edl
 - Open **NothingFlashTool.exe**.
-- Press **2**, then confirm by pressing **enter** to boot into EDL mode.
 
 #### Finding the COM## number
 > The software should open device manager. If it does not, open it manually
