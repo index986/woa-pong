@@ -34,12 +34,12 @@ This usually means that winlogon.exe has failed, and you may need to reapply the
 ##### Finished!
 
 ## The computer restarted unexpectedly or encountered an unexpected error
-If you stumble upon this error, you may need to redeploy the Windows image. Use the [reinstall guide](reinstall.md) for this.
+If you stumble upon this error, you may need to redeploy the Windows image. Use the [reinstall guide](https://github.com/Project-Silicium/WoA-Guides/blob/main/Mu-Qcom/OS/Windows/Win.md#installing-step-3) for this.
 
 ##### Finished!
 
 ## INACCESSIBLE_BOOT_DEVICE BSOD
-This Blue Screen of Death likely means some broken driver installation. To fix this, reinstall the drivers using the [reinstall guide](reinstall.md).
+This Blue Screen of Death likely means some broken driver installation. To fix this, reinstall the drivers using the [reinstall guide](https://github.com/Project-Silicium/WoA-Guides/blob/main/Mu-Qcom/OS/Windows/Win.md#installing-step-3).
 
 ##### Finished!
 
