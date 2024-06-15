@@ -1,15 +1,11 @@
-<img align="right" src="https://github.com/n00b69/woa-polaris/blob/main/polaris.png" width="350" alt="Windows 11 running on polaris">
+<img align="right" src="https://github.com/govro150/woa-pong/blob/main/pong.png" width="350" alt="Windows 11 running on pong">
 
-# Running Windows on the Xiaomi Mix 2s
+# Running Windows on the Nothing Phone (2)
 
 ## Installing Windows
 
 ### Prerequisites
 - [Windows on ARM image](https://worproject.com/esd)
-  
-- [Drivers](https://github.com/n00b69/woa-polaris/releases/tag/Drivers)
-
-- [Devcfg (touch fix)](https://github.com/n00b69/woa-polaris/releases/download/Files/devcfg-polaris.img)
   
 - [Modded OFOX](https://github.com/n00b69/woa-polaris/releases/download/Files/ofox.img)
 
