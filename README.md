@@ -1,10 +1,10 @@
-<img align="right" src="https://github.com/n00b69/woa-polaris/blob/main/polaris.png" width="350" alt="Windows 11 running on polaris">
+<img align="right" src="https://github.com/govro150/woa-pong/blob/main/pong.png" width="350" alt="Windows 11 running on pong">
 
 # Running Windows on the Nothing Phone (2)
 [![telegram](https://img.shields.io/badge/chat-telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/woa_pong)
 
 ## Choose your language
-**English** | [`Pусский`](/guide/Russian/README-ru.md) | [`Polski`](/guide/Polski/README-pl.md)
+**English** |~~ [`Pусский`](/guide/Russian/README-ru.md) ~~|~~ [`Polski`](/guide/Polski/README-pl.md)~~
 
 ## ⚠️ Warning
 We're not responsible for bricked devices, missing recovery partitions, dead xiaomi factoryline ~~workers~~ cowboys, dead pmics, dead ram, dead sim cards, dead display ics, dead cpus, any xiaomi shenanigans, exploding batteries, dead cats or dogs, nuclear wars or you getting fired because you forgot to boot back in to android for the alarm.
