@@ -5,7 +5,7 @@
 ## Updating drivers
 
 ### Prerequisites
-~~- [Drivers](https://github.com/n00b69/woa-pong/releases/tag/Drivers)~~
+~~- [Drivers](https://google.com)~~
 
 ### Currently we dont have any drivers for pong so this page is unused 
 
