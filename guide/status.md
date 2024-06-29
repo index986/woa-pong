@@ -3,7 +3,7 @@
 # Running Windows on the Nothing Phone (2)
 
 ## Project Status
-Most things work, flashlight does not yet work but it might be functional soon.
+Most things are fooked cuz no pep, drivers, lack of knowledge 
 
 #### Features
 - [ ] Audio
