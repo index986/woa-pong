@@ -20,7 +20,7 @@ Most things are fooked cuz no pep, drivers, lack of knowledge
 - [ ] SMS
 - [ ] Touchscreen 
 - [x] UFS
-- [x] USB ```UEFI device mode only / Windows dualrole unstable ( for host mode only to tg channel )```
+- [x] USB
 - [ ] Wi-Fi
 
 #### Sensors
