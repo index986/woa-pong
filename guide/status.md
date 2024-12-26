@@ -11,7 +11,7 @@ Most things are fooked cuz no pep, drivers, lack of knowledge
 - [ ] Bluetooth
 - [ ] Brightness 
 - [ ] Camera
-- [X] CPU ``` 1 Core only ```
+- [X] CPU
 - [ ] LTE
 - [ ] Charging
 - [x] Display
