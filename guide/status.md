@@ -3,7 +3,7 @@
 # Running Windows on the Nothing Phone (2)
 
 ## Project Status
-Most things are fooked cuz no pep, drivers, lack of knowledge 
+Most things won't work because of lack of drivers and lack of knowledge 
 
 #### Features
 - [ ] Audio
