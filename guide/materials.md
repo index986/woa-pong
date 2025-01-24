@@ -18,7 +18,7 @@ You can also find a list of dedicated ARM software [at this link](https://armrep
 > This is recommended because this drive should not be modified, while some applications may try to write to it.
 
 #### Automated method
-- Download [ModemHide.vbs](https://github.com/Misha803/My-Scripts/releases/tag/ModemHide) onto your polaris 
+- Download [ModemHide.vbs](https://github.com/Misha803/My-Scripts/releases/tag/ModemHide) onto your pong
 - Run it
 - Approve any UAC dialogs 
 - Click `Yes` in the dialog box
@@ -34,7 +34,7 @@ You can also find a list of dedicated ARM software [at this link](https://armrep
 
 
 ### Install Microsoft Office / Microsoft 365
-- Download this [ISO file](https://mega.nz/file/hjAiSL4T#G7kOKpsUFpyL2UW9RQmY2e96urcQW5xZKdc7ciaNOy8) to the tablet
+- Download this [ISO file](https://mega.nz/file/hjAiSL4T#G7kOKpsUFpyL2UW9RQmY2e96urcQW5xZKdc7ciaNOy8) to the phone
 - Right-click on the iso file and select Mount to open it in explorer
 - Double-click on ```Office Tool Plus.exe``` to start the installation wizard
 - Approve any UAC dialogs 
